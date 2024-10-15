@@ -354,3 +354,6 @@ MigrationBackup/
 4-Data-Science-Lifecycle/14-Introduction/README.md
 .vscode/settings.json
 *.ipynb
+temp_auto_push.bat
+temp_interactive_push.bat
+branch_structure.json
